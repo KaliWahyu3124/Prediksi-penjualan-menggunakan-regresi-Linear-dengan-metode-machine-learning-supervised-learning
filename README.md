@@ -6,7 +6,7 @@
 - Fikri Afrizal - 24060120130079
 - Faturrahman Alharitszoe - 24060120140138
 - Jonathan Henock Alexander Manik - 24060120130112
-
+  
 ## Mentee:
 - Name: Wahyu Cahyono. P
 - Program: IBM Advanced AI
@@ -14,3 +14,7 @@
 ## Tech Stack:
 - Python
 - Google Collab
+
+## Sources:
+https://www.kaggle.com/code/fikriafrizal/regresi-advertising-data
+https://www.kaggle.com/datasets/ashydv/advertising-dataset
