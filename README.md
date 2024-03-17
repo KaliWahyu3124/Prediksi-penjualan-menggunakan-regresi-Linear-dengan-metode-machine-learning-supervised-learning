@@ -16,5 +16,5 @@
 - Google Collab
 
 ## Sources:
-https://www.kaggle.com/code/fikriafrizal/regresi-advertising-data
-https://www.kaggle.com/datasets/ashydv/advertising-dataset
+- https://www.kaggle.com/code/fikriafrizal/regresi-advertising-data
+- https://www.kaggle.com/datasets/ashydv/advertising-dataset
